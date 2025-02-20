@@ -38,4 +38,42 @@ http://localhost/osTicket
 
 <h2>Intake</h2>
 
+- Go to the Admin/Analyst Login Page: </b>
+http://localhost/osTicket/scp/login.php
+-Login as John Doe
+
+<img src="https://i.imgur.com/Uj7ci37.png" width="80%" alt=""/>
+
+Select the ticket created earlier
+
+<img src="https://i.imgur.com/d8aYg4H.png" width="80%" alt=""/>
+
+- Since John's permissions are set to View Only, this Agent can only view the ticket but cannot change anything about it.
+
+ <img src="https://i.imgur.com/nEirE5C.png" width="80%" alt=""/>
+
+- To be able to complete the ticket, we can complete the ticket as Jane Doe or give John permission to access the ticket. In this case I'll be giving John Doe an All Access Role.
+
+<img src="https://i.imgur.com/7yJcpUB.png" width="80%" alt=""/>
+
+<h2>Assignment and Communication</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
