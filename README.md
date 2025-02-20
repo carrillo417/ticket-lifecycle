@@ -63,7 +63,7 @@ Select the ticket created earlier
 <img src="https://i.imgur.com/wkpTdNk.png" width="80%" alt=""/>
 
 - Ticket Priority:
-  - Since the ticket is about the online baking system being down it affects a lot of people so it is considered a High priority so that an agent can get to it as soon as possible
+  - Since the ticket is about the online banking system being down it affects a lot of people so it is considered a High priority so that an agent can get to it as soon as possible
 
 <img src="https://i.imgur.com/NZ1WLMe.png" width="80%" alt=""/>
 
