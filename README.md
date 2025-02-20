@@ -22,6 +22,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+<h2>Creating A Ticket</h2>
+
+- We will be creating a ticket as an end user
+- Go to the End Users osTicket URL: </b>
+http://localhost/osTicket
+- Click on Create a New Ticket
+- Open a new ticket under User Karen created in the previous lab
+- Fill out the ticket information
+
+<img src="https://i.imgur.com/BnpLu9Y.png" height="80%" width="80%" alt=""/>
+
+<img src="https://i.imgur.com/q1vKEh6.png" height="80%" width="80%" alt=""/>
+
+
 <h2>Intake</h2>
 
 
